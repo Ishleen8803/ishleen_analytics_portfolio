@@ -15,13 +15,18 @@ Each folder contains a standalone project with its report, supporting code, and 
 Built a sentiment prediction framework for customer reviews using text analytics and machine-learning techniques.  
 Included feature engineering, model comparison, and insight generation for commercial applications.
 
-### **2. EV Strategy and Business Simulation Analysis**
+### **2. Airbnb Analytics Maturity and Sustainability Dashboard**
+[`airbnb-analytics-maturity-and-sustainability-dashboard`](./airbnb-analytics-maturity-and-sustainability-dashboard)
+
+Evaluated Airbnb’s analytics maturity using the DELTA framework. Proposed a data-driven sustainability and ESG dashboard for operational and marketing decisions.
+
+### **3. EV Strategy and Business Simulation Analysis**
 [`ev-strategy-and-business-simulation-analysis`](./ev-strategy-and-business-simulation-analysis)
 
 Analysed the performance of an electric-vehicle strategy within a six-year business simulation.  
 Evaluated pricing decisions, market dynamics, operational constraints, and financial outcomes.
 
-### **3. Exploratory Statistics and Predictive Modelling in R**
+### **4. Exploratory Statistics and Predictive Modelling in R**
 [`exploratory-statistics-and-predictive-modelling-in-r`](./exploratory-statistics-and-predictive-modelling-in-r)
 
 Investigated key drivers of customer behaviour using regression, hypothesis testing, and statistical modelling.  
