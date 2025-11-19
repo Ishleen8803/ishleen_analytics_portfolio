@@ -11,11 +11,7 @@ This project develops a Support Vector Machine (SVM) classifier entirely from fi
 The objective was to translate the theoretical hard-margin SVM formulation into a working optimisation algorithm without relying on machine-learning libraries.
 
 ## Approach
-- Implemented the **hard-margin SVM** objective  
-  \[
-  \min \frac{1}{2} \|w\|^2 \quad \text{s.t. } y_i(w^T x_i + b) \ge 1
-  \]
-  using Pyomo to model constraints and GLPK as the linear solver.
+- Implemented a **hard-margin SVM** objective using Pyomo to model constraints and GLPK as the linear solver.
   
 - Applied a **feasible direction algorithm**, iteratively updating  
   - feasible point \( v_k \)  
